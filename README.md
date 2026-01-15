@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Sandeep</h1>
 <h3 align="center">A passionate developer from Visakhapatnam, India</h3>
+
+<h4 align="center">
+I love coding in C++, Javascript and Typescript, and I love to learn new tech! Here are all of my projects!
+</h4>
