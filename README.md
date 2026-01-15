@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 
 <!--
 **sandeepmukku12/sandeepmukku12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Sandeep</h1>
+<h3 align="center">A passionate developer from Visakhapatnam, India</h3>
