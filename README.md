@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 <h4 align="center">
 I love coding in C++, Javascript and Typescript, and I love to learn new tech! Here are all of my projects!
 </h4>
+
+<h2 align="center">Stats: </h2>
+<p align="center"> 
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmukku12&theme=dark" alt="Stats" />
+</p>
