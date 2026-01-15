@@ -27,3 +27,5 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" /></a> -->
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark)](https://git.io/streak-stats)
