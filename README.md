@@ -54,3 +54,19 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+<h2 align="center">Feel Free to Connect! </h2>
+<p align="center">
+  <a href="https://in.linkedin.com/in/sandeep-mukku-260848218">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <!-- <a href="https://instagram.com/aye_that_guitar_guy">
+    <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> -->
+  <a href="mailto:sandeep12akp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <!-- <a href="https://youtube.com/kguitar">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a> -->
+</p>
