@@ -24,6 +24,6 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
 
 <h2 align="center">Stats: </h2>
 <p align="center"> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" /></a>
-  <!-- <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" /> -->
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" /></a> -->
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" />
 </p>
