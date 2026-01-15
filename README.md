@@ -28,6 +28,8 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=sandeepmukku12&theme=dark" alt="Stats" />
 </p> -->
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KG-110&theme=dark" alt="GitHub Streak" /></a>
+
 <h2 align="center">Skills and Technologies: </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
