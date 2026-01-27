@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Visakhapatnam, India</h3>
 
 <h4 align="center">
-I love coding in C++, Javascript and Typescript, and I love to learn new tech! Here are all of my projects! Check them out!
+I love coding in C++, Javascript and Typescript, and I love to learn new tech! Here are all of my projects!
 </h4>
 
 <!-- <h2 align="center">Stats: </h2>
