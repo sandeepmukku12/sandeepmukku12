@@ -78,7 +78,7 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Sandeep Mukku</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm SANDEEP MUKKU</h1>
 
 
 I am a Full-Stack & Mobile Developer specializing in the intersection of high-performance frontends and secure, transaction-heavy backends. I take absolute ownership of the product lifecycle, from architecting accessible web interfaces to deep-diving into Android Logcat to resolve complex native mobile crashes.
@@ -91,14 +91,14 @@ I am a Full-Stack & Mobile Developer specializing in the intersection of high-pe
 - 🌱 **I’m currently learning:** Advanced rendering optimizations and system architecture.
 - 💬 **Ask me about:** Frontend architecture, mobile debugging, and full-stack development.
 - 👯 **I’m looking to collaborate on:** High-performance open-source mobile tools, complex scalable web infrastructures, and strictly typed React Native libraries.
-- - 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/sandeep-mukku-260848218) | [Email](mailto:sandeep12akp@gmail.com)
+- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/sandeep-mukku-260848218) | [Email](mailto:sandeep12akp@gmail.com)
 - ⚡ **Fun fact:** I once temporarily ripped a slider library out of my app to fix a crash, only to find the real culprit was a tiny bug in my own fetch logic! 🐛
 
 
 
 ### ⚙️ Core Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -147,7 +147,7 @@ I am a Full-Stack & Mobile Developer specializing in the intersection of high-pe
 
 Whether it's discussing architecture, collaborating on an open-source project, or talking about new opportunities, my inbox is always open.
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/sandeep-mukku-260848218">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
