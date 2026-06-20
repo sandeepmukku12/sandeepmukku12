@@ -80,11 +80,10 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Sandeep Mukku</h1>
 
-### Relentless Execution | Rapid Adaptation | Continuous Learning
 
 I am a Full-Stack & Mobile Developer specializing in the intersection of high-performance frontends and secure, transaction-heavy backends. I take absolute ownership of the product lifecycle, from architecting accessible web interfaces to deep-diving into Android Logcat to resolve complex native mobile crashes.
 
----
+
 
 ### 🚀 Quick Stats & What I'm Up To
 
@@ -95,7 +94,7 @@ I am a Full-Stack & Mobile Developer specializing in the intersection of high-pe
 - - 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/sandeep-mukku-260848218) | [Email](mailto:sandeep12akp@gmail.com)
 - ⚡ **Fun fact:** I once temporarily ripped a slider library out of my app to fix a crash, only to find the real culprit was a tiny bug in my own fetch logic! 🐛
 
----
+
 
 ### ⚙️ Core Tech Stack
 
@@ -134,16 +133,15 @@ I am a Full-Stack & Mobile Developer specializing in the intersection of high-pe
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
----
 
-### 📊 GitHub Activity
+
 
 <!-- To make this work, replace YOUR_GITHUB_USERNAME with your actual username below -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepmukku12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+</div> -->
 
----
+
 
 ### 📫 Feel free to connect!
 
