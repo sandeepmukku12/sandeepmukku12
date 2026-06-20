@@ -78,7 +78,7 @@ I love coding in C++, Javascript and Typescript, and I love to learn new tech! H
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm SANDEEP MUKKU</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />,  I'm SANDEEP MUKKU</h1>
 
 
 I am a Full-Stack & Mobile Developer specializing in the intersection of high-performance frontends and secure, transaction-heavy backends. I take absolute ownership of the product lifecycle, from architecting accessible web interfaces to deep-diving into Android Logcat to resolve complex native mobile crashes.
